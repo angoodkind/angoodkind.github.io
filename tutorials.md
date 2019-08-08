@@ -1,0 +1,2 @@
+* An R (markdown) presentation on [the tidyverse, from data import to visualization](http://rpubs.com/angoodkind/352340)
+* A LaTeX beamer presentation providing [an overview of LaTeX](https://github.com/angoodkind/LaTeXTutorial)
