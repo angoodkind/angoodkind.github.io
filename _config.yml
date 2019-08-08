@@ -24,10 +24,10 @@ description: Another academic with a blog. Whoa.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
   CV: "https://angoodkind.github.io/files/Goodkind-CV-08-08-19.pdf"
   Research: "research"
   Tutorials: "tutorials"
