@@ -1,8 +1,9 @@
 ---
 layout: post
-title: The reboot of adamgoodkind.com
+title: The reboot of adamgoodkind.com v5
 subtitle: Like a Disney reboot, but good!
 tags: [R, RStudio, Jekyll, Github, Markdown]
+------
 output:
   html_document:
     keep_md: true
@@ -35,6 +36,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![]({{site_url}}/img/blog_images/{{site_url}}/img/blog_images/2019-08-09-site-reboot-test_files/figure-html/pressure-1.png)<!-- -->
+![]({{site_url}}/img/blog_images/reboot-test-v5_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
