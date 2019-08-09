@@ -1,22 +1,14 @@
 ---
 layout: post
-title: The reboot of `adamgoodkind.com`
+title: The reboot of adamgoodkind.com
 subtitle: Like a Disney reboot, but good!
 tags: [R, RStudio, Jekyll, Github, Markdown]
----
----
-layout: post
-title: The reboot of `adamgoodkind.com`
-subtitle: Like a Disney reboot, but good!
-tags: [R, RStudio, Jekyll, Github, Markdown]
----
----
 output:
   html_document:
     keep_md: true
 ---
 
-
+3rd attempt
 
 ## R Markdown
 
