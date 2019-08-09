@@ -8,7 +8,7 @@ output:
     keep_md: true
 ---
 
-3rd attempt
+4th attempt
 
 ## R Markdown
 
@@ -35,6 +35,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![]({{site_url}}/img/blog_images/{{site_url}}/img/blog_images/2019-08-09-site-reboot-test_files/figure-html/pressure-1.png)<!-- -->
+![]({{site_url}}/img/blog_images/2019-08-09-site-reboot-test_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
