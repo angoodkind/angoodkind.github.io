@@ -24,12 +24,13 @@ description: Another academic with a blog. Whoa.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
+  Blog: ""
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   #   - GitHub Pages: "https://pages.github.com/"
   CV: "https://angoodkind.github.io/files/Goodkind-CV-08-08-19.pdf"
-  Research: "research"
   Tutorials: "tutorials"
   Code: "code"
   Book An Appointment: "https://adamgoodkind.youcanbook.me/"
@@ -152,8 +153,9 @@ title-separator: "-"
 timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /blog/:title/
 paginate: 5
+paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
