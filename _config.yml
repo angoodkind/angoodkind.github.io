@@ -25,7 +25,7 @@ description: Another academic with a blog. Whoa.
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Blog: ""
+  Blog: "blog"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
