@@ -5,6 +5,10 @@ subtitle: Current and past research projects, with some relevant links
 ---
 
 ## Current Projects
+
+Check back here for specific updates. I plan on studying the linguistic markers of collaboration, and how we can measure conversational convergence.
+
+## Past Projects
 __Linguistics and Autism__
 
 * Converting clinical transcripts into word vectors, we analyze semantic similarity in both typically-developing children (TD) and children with autism spectrum disorder (ASD). Our initial findings show that the cosine differences between children with ASD and TD children are significantly different when compared to a gold standard
@@ -16,8 +20,6 @@ __Using Language Models to Understand Cognition__
 * Do better language models better predict cognitive processes measured by eye-tracking? Using a neural net-based language model, we use generalized additive models (GAMs) to investigate how language models with lower perplexity can better model eye-tracking data. We are also investigating the distinct influence of lower-level (local) statistics such as transitional probability versus surprisal’s effects on processing.
   * [Goodkind, A. & Bicknell, K. (2018) Predictive power of word surprisal for reading times is a linear function of language model quality](https://www.aclweb.org/anthology/W18-0102) __(Best Paper Award)__
   * [Code repository](https://github.com/langcomp/lm_1b)
-
-## Past Research
 
 __Keystroke Dynamics__
 * Typing patterns are unique to individuals. Just as everyone has a unique voice, such as pitch, rate of speech, and vocabulary, everyone has a unique way of typing. We frame typing patterns by the keystroke's linguistic context, such as the word within which the keystroke was produced, or that word's lexical category. For example, a typist might produce <em>TH</em> differently in a noun versus in a verb.
