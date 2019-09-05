@@ -4,7 +4,8 @@ title: About me
 # subtitle: Nothing here you can't find on every other page of mine
 ---
 
-<img style="float: left;" align="left" src="/img/nu_headshot-compressed.jpg" alt="headshot"
+<img style="float: left;" align="left" margin="10px"
+src="/img/nu_headshot-compressed.jpg" alt="headshot"
 	title="My headshot" width="150" />
 
 
