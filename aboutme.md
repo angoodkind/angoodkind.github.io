@@ -4,7 +4,7 @@ title: About me
 # subtitle: Nothing here you can't find on every other page of mine
 ---
 
-<img src="/img/nu_headshot-compressed" alt="headshot"
+<img src="/img/nu_headshot-compressed.jpg" alt="headshot"
 	title="My headshot" width="150" height="100" />
 
 I am a PhD student in the [Media, Technology, and Society program](https://communication.northwestern.edu/programs/phd_media_technology_society), an interdisciplinary program within Northwestern's [School of Communications](https://communication.northwestern.edu).  I was formerly a PhD student in the Linguistics Department.
