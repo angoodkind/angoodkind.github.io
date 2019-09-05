@@ -41,7 +41,7 @@ avatar: "/img/a.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/nu_headshot-compressed.jpg"
+# title-img: "/img/nu_headshot-compressed.jpg"
 
 # --- Background colour/image options --- #
 
@@ -83,7 +83,7 @@ social-network-links:
   twitter: adamgreatkind
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+linkedin: adamgoodkind
 #  xing: yourname
   stackoverflow: "823859/adam-g"
 #  snapchat: deanat78
