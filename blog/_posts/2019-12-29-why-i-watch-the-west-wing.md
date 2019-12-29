@@ -14,10 +14,10 @@ output:
 
 <!-- <div style="text-align: center"><img src="/img/tww-full.jpeg" width="100" /></div> -->
 
-<p align="center"">
+<!-- <p align="center"">
    <img src="/img/tww-full.jpeg" width="100%" />
-</p>
-<!-- <div style="text-align: center"><img src="/img/tww-full.jpeg" width="100" /></div> -->
+</p> -->
+<div style="text-align: center"><img src="/img/tww-full.jpeg" width="80%" /></div>
 
 <!-- ![President Josiah Bartlet](/img/tww-full.jpeg) -->
 
