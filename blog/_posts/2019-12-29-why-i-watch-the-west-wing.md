@@ -17,6 +17,7 @@ output:
 <p align="center"">
    <img src="/img/tww-full.jpeg" width="100%" />
 </p>
+<!-- <div style="text-align: center"><img src="/img/tww-full.jpeg" width="100" /></div> -->
 
 <!-- ![President Josiah Bartlet](/img/tww-full.jpeg) -->
 
