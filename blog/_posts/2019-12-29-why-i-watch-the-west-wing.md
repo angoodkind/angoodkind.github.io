@@ -12,7 +12,11 @@ output:
 
 *Today's NY Times ran [an article about people who still rewatch The West Wing](https://nyti.ms/2tfG3NP). However, the article misses a key point, which is an essential element for why so many people are still rewatching it today. Below is my letter to the editor. (Note: I sent in a condensed version of the below, because the NY Times encourages a 175 word limit.)*
 
-<div style="text-align: center"><img src="/img/tww-full" width="100" /></div>
+<!-- <div style="text-align: center"><img src="/img/tww-full.jpeg" width="100" /></div> -->
+
+<p align="center"">
+   <img src="/img/tww-full.jpeg" width="100%" />
+</p>
 
 <!-- ![President Josiah Bartlet](/img/tww-full.jpeg) -->
 
