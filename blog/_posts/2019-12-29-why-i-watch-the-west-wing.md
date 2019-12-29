@@ -4,7 +4,7 @@ layout: post
 title: Why I (Re)Watch (and Rewatch) The West Wing
 subtitle: It's more important than mere nostalgia...
 tags: [Politics]
-image: /img/tww.jpeg
+image: /img/tww-logo.jpeg
 output:
   html_document:
     keep_md: true
@@ -12,7 +12,9 @@ output:
 
 *Today's NY Times ran [an article about people who still rewatch The West Wing](https://nyti.ms/2tfG3NP). However, the article misses a key point, which is an essential element for why so many people are still rewatching it today. Below is my letter to the editor. (Note: I sent in a condensed version of the below, because the NY Times encourages a 175 word limit.)*
 
-![President Josiah Bartlet](/img/tww-full.jpeg)
+<div style="text-align: center"><img src="/img/tww-full" width="100" /></div>
+
+<!-- ![President Josiah Bartlet](/img/tww-full.jpeg) -->
 
 Dear NY Times Editor,
 
