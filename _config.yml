@@ -189,7 +189,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - Vagrantfile
 
 # prose.io config
 prose:
@@ -246,6 +245,9 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  # - jekyll-gist
+  # - jekyll-feed
+  # - jekyll-include-cache
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
