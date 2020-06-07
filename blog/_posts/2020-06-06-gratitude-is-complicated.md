@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: true 
 title: Gratitude is complicated
 subtitle: Or, thoughts after brain surgery
 tags: []
