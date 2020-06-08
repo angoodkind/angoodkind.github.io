@@ -26,4 +26,4 @@ What if a chat bot could answer a medical question really well, because they had
 
 All of this would go some way bringing down the cost of healthcare, and increase the spectrum of people with access to it. It’s a small step, but a step in the right direction at least. 
 
-I am lucky. But I am not an inherently better or more deserving person compared to a randomly selected human. For that reason, there is no reason we shouldn’t at least give every person the same opportunities and possibilities. At least then it’s up to them what they want to do with them. 
+I am lucky. But I am not an inherently better or more deserving person compared to a randomly selected human. For that reason, there is no reason we shouldn’t at least give every person the same opportunities and possibilities. Perhaps this is a first small step I can provide to help improve access to information for those who currently don’t have it.
