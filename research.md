@@ -6,7 +6,16 @@ subtitle: Current and past research projects, with some relevant links
 
 ## Current Projects
 
-Check back here for specific updates. I plan on studying the linguistic markers of collaboration, and how we can measure conversational convergence.
+__Human Behavior When Interacting With a Chatbot or Another Person__
+
+This research uses keystroke-production data as a way to understand human-computer interaction at a deeper level. In many ways, keystroke productions parallels speech production, and has its own prosody and error correction. By looking at keystroke timing during discourse, we can better understand underlying cognitive processes and optimize interfaces and agents to maximize collaborative success.
+
+Among other investigations, we focus on these research questions:
+* How does anomalous behavior, such as a prolonger pause or a mistake, from a conversational partner affect a user's impression of their partner? Does it matter if their partner is a computer or another 
+person?
+* When we imitate our conversational partner (linguistic alignment), do we use the same cognitive resources to produce aligned text as we use when producing original text?
+* Does a user's impression of their partner, especially whether they are another person or a computer, affect their overall typing production and ways of interacting?
+
 
 ## Past Projects
 __Linguistics and Autism__
