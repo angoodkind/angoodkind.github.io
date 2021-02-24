@@ -34,6 +34,9 @@ __Keystroke Dynamics__
 * Typing patterns are unique to individuals. Just as everyone has a unique voice, such as pitch, rate of speech, and vocabulary, everyone has a unique way of typing. We frame typing patterns by the keystroke's linguistic context, such as the word within which the keystroke was produced, or that word's lexical category. For example, a typist might produce <em>TH</em> differently in a noun versus in a verb.
 <br>We utilize keystroke dynamics for two tasks: individual identification and cohort identification. The first task uses keystroke dynamics to better identify an individual. The latter task uses keystroke dynamics to try to predict a typist's demographics, e.g. native language or gender, from their typing patterns.<br>
   * [Goodkind, A., Brizan, D. G., & Rosenberg, A. (2017). Utilizing overt and latent linguistic structure to improve keystroke-based authentication. Image and Vision Computing, 58, 230-238.](https://www.sciencedirect.com/science/article/pii/S0262885616301019)
+
+* I'm also interested in how best to visualize keystroke data. The paper below is a dashboard I created for researchers. For my thesis, I am also interested in how keystroke data can best be shared with a conversational partner, to improve the conversation. For example, if keystroke patterns imply that a user is confused, then perhaps the speaker should re-explain what they are saying.
+  * [Goodkind, A. (In Submission). TypeShift: A User Interface for Visualizing the Typing Production Process.](angoodkind.github.io/files/ACL_2020_TypeShift_System_Demo-2.pdf)
 * Some questions that still vex me:
   * How do temporal patterns surrounding typing reflect cognition and language familiarity?
   * Why do we pause in the midst of typing?
