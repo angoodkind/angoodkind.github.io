@@ -36,7 +36,7 @@ __Keystroke Dynamics__
   * [Goodkind, A., Brizan, D. G., & Rosenberg, A. (2017). Utilizing overt and latent linguistic structure to improve keystroke-based authentication. Image and Vision Computing, 58, 230-238.](https://www.sciencedirect.com/science/article/pii/S0262885616301019)
 
 * I'm also interested in how best to visualize keystroke data. The paper below is a dashboard I created for researchers. For my thesis, I am also interested in how keystroke data can best be shared with a conversational partner, to improve the conversation. For example, if keystroke patterns imply that a user is confused, then perhaps the speaker should re-explain what they are saying.
-  * [Goodkind, A. (In Submission). TypeShift: A User Interface for Visualizing the Typing Production Process.](angoodkind.github.io/files/ACL_2020_TypeShift_System_Demo-2.pdf)
+  * [Goodkind, A. (In Submission). TypeShift: A User Interface for Visualizing the Typing Production Process.](https://angoodkind.github.io/files/ACL_2020_TypeShift_System_Demo-2.pdf)
 * Some questions that still vex me:
   * How do temporal patterns surrounding typing reflect cognition and language familiarity?
   * Why do we pause in the midst of typing?
