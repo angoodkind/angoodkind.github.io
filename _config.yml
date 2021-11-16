@@ -26,10 +26,6 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Blog: "blog"
-  # Resources:
-  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #   - Learn markdown: "http://www.markdowntutorial.com/"
-  #   - GitHub Pages: "https://pages.github.com/"
   CV: "https://angoodkind.github.io/files/Goodkind_CV.pdf"
   Tutorials: "tutorials"
   Code: "code"
