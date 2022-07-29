@@ -27,6 +27,7 @@ navbar-links:
   Research: "research"
   Blog: "blog"
   Resume & CV:
+    - Resume: "https://angoodkind.github.io/files/Goodkind_Resume.pdf"
     - CV: "https://angoodkind.github.io/files/Goodkind_CV.pdf"
   Tutorials: "tutorials"
   Code: "code"
