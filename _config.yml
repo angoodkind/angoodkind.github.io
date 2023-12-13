@@ -30,6 +30,7 @@ navbar-links:
     - Extended Abstract: "https://angoodkind.github.io/files/Goodkind_Dissertation_Abstract.pdf"
     - Slides: "https://angoodkind.github.io/files/Goodkind_Dissertation_Defense_Slides.pdf"
     - Data (KiD Corpus): "https://github.com/angoodkind/KiDcorpus"
+  Chat: "chat"
   Blog: "blog"
   Resume & CV:
     - Resume: "https://angoodkind.github.io/files/Goodkind_Resume.pdf"
