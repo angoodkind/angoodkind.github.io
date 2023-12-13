@@ -5,7 +5,7 @@ title: Chat with my thesis!
 ---
 
 <iframe
-  src="https://angoodkind-streamlit-example-streamlit-app-x6es8r.streamlit.app/?embed=true"
+  src="https://llamaindex-chat-with-app-docs-test0.streamlit.app/?embed=true"
   height="450"
   style="width:100%;border:none;"
 ></iframe>
