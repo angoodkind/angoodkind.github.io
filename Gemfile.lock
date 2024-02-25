@@ -217,6 +217,7 @@ GEM
     tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
@@ -225,6 +226,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
+  webrick
 
 BUNDLED WITH
    1.17.3
