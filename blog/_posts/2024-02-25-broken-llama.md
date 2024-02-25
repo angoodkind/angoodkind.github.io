@@ -4,13 +4,13 @@ published: true
 title: A broken llama (index)!
 # subtitle: but that doesn't matter...
 tags: [AI, Chatbot]
-image: /img/broken-llama.jpeg
+image: /img/broken-llama.png
 output:
   html_document:
     keep_md: true
 ---
 
-<img align="right" src="/img/broken-llama.jpeg" alt="A cartton llama with a jagged break down the middle" style="width:30%">
+<img align="right" src="/img/broken-llama.png" alt="A cartton llama with a jagged break down the middle" style="width:30%">
 
 I'm trying to get better about writing more regularly, and part of this means writing shorter, less polished articles, rather than long articles that are well-formatted and punchy. I'm also trying to get better about sharing my findings when I figure out a bug, in the hopes that a) someone else will find it on Google and save themselves *n* hours,and b) I don't forget what I did, and waste *n+1* hours again.
 
